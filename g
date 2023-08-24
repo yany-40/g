@@ -1,5 +1,5 @@
-<table border="1"
-    <head>
+<table border="1" style="color: aqua;">
+    <thead>
         <tr>
             <th> Nombres </th>
             <th>Edades</th>
@@ -7,7 +7,7 @@
             <th>Nacionalidad</th>
             <th>Provincia</th>
         </tr>
-    </head>
+    </thead>
     <tbody>
         <tr>
             <td>Luis carmona</td>
